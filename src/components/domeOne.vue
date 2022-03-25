@@ -1,4 +1,5 @@
 <template>
+    <h2>modeOne</h2>
     <div class="box">
         <div class="view" id='viewS'> </div>
         <div class="scan" id='scan' ></div>
