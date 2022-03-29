@@ -8,8 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25",
-    "openseadragon": "2.4.2"
+    "openseadragon": "2.4.2",
+    "scss": "^0.2.4",
+    "vue": "^3.2.25"
   },
   "devDependencies": {
     "@types/openseadragon": "^3.0.2",
